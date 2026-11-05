@@ -1,0 +1,9 @@
+# VR4U Atelier - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://vr4u.in/sitemap.xml
+
